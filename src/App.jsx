@@ -27,9 +27,9 @@ function App() {
               </ul>
               <ul className="navbar-nav ms-auto mb-2 mb-lg-0" role="search">
                 <a
-                  href="https://santricoding.com"
+                  href="https://github.com/agisnarevaldo"
                 >
-                  santricoding.com
+                  agisna revaldo
                 </a>
               </ul>
             </div>
